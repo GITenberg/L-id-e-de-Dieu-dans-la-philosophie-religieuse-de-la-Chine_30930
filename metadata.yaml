@@ -1,0 +1,33 @@
+_repo: L-id-e-de-Dieu-dans-la-philosophie-religieuse-de-la-Chine_30930
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rosny, Lucien de
+    aliases:
+    - Rosny, Lucien Joseph Prunol de
+    - Rosny-Foucqueville, Lucien de
+    - De Rosny, Lucien
+    birthdate: 1810
+    deathdate: 1871
+    gutenberg_agent_id: '34903'
+    url: http://www.gutenberg.org/2009/agents/34903
+description: ''
+gutenberg_bookshelf: FR Philosophie, Religion et Morale
+gutenberg_issued: '2010-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30930'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy, Chinese'
+- !lcsh 'China -- Religion'
+- !lcsh 'God'
+- !lcc 'BL'
+title: L'idée de Dieu dans la philosophie religieuse de la Chine
+url: http://www.gutenberg.org/ebooks/30930
