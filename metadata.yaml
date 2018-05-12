@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '34903'
     url: http://www.gutenberg.org/2009/agents/34903
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30930#L-id-e-de-Dieu-dans-la-philosophie-religieuse-de-la-Chine
 gutenberg_bookshelf: FR Philosophie, Religion et Morale
 gutenberg_issued: '2010-01-11'
 gutenberg_type: Text
